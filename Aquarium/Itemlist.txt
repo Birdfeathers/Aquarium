@@ -1,0 +1,72 @@
+Item list:
+    Food Items:
+            Seafood
+                1. BrineShrimp
+                2. Small Fish
+                3. Medium Fish
+                4. Large Fish
+                5. Red Fish
+                6. Mosquito Larvae
+                7. Mussels
+                8. Crawfish
+            Meat
+                1. Chicken
+                2. Steak
+            Bread
+                1. Bread
+            Greens
+                1. Lettuce
+                2. Kelp
+                3. Algae
+                4. Forest Greens
+            Fruit
+                1. Apple
+                2. VeryBerry
+                3. Quince
+            Nuts
+                1. Walnut
+                2. Acorn
+            Other
+                1. Pizza
+                2. Spaghetti
+    Decorative Items
+        1. stick
+        2. rock
+    Tools
+        1. Cleaning Brush
+        2. Water pH stabilizer
+        3. Fishing pole
+name;edible;type;foodnumber;
+brineShrimp;inedible;Seafood;1;
+smallFish;edible;Seafood;2;
+mediumFish;edible;Seafood;4;
+largeFish;edible;Seafood;7;
+redFish;edible;Seafood;3;
+mosquitoLarvae;inedible;Seafood;1;
+mussels;edible;Seafood;2;
+crawfish;edible;Seafood;2;
+chicken;edible;Meat;4;
+steak;edible;Meat;7;
+bread;eible;Bread;2;
+lettuce;edible;Greens;1;
+kelp;inedible;Greens;4;
+algae;inedible;Greens;2;
+forestGreens;inedible;Greens;7;
+apple;edible;Fruit;2;
+veryBerry;edible;Fruit;1;
+quince;inedible;Fruit;2;
+walnut;edible;Nuts;4;
+acorn;inedible;Nuts;4;
+pizza;edible;Other;7;
+spaghetti;edible;Other;5;
+stick;inedible;Decorative;0;
+rock;inedible;Decorative;0;
+cleaningBrush;inedible;Tools;0;
+waterpHStabilizer;inedible;Tools;0;
+fishingPole;inedible;Tools;0;
+pearl;inedible;decorative;0;
+trash;inedible;decorative;0;
+seagrass;inedible;Greens;1;
+worm;inedible;Seafood;1;
+catTailRoot;edible;Nuts;1;
+

@@ -1,0 +1,12 @@
+species;size;orientation;foodtype;foodnumber;
+goldfish;1;normal;Seafood,Meat,Bread,Greens,Fruit,Nuts,NA;1;
+MediumPacificKelpMuncher;2;normal;NA,NA,NA,Greens,NA,NA,NA;2;
+Seahorse;3;sideways;Seafood,NA,NA,NA,NA,NA,Na;2;
+Pacu;9;normal;NA,NA,NA,NA,Fruit,Nuts,NA;5;
+SeaTurtle;9;normal;NA,NA,NA,Greens,NA,NA,NA;10;
+Barracuda;3;normal;Seafood,Meat,NA,NA,NA,NA,NA;7;
+guppy;1;normal;Seafood,NA,NA,NA,NA,NA,NA;1;
+BetaFish;1;normal;Seafood,NA,NA,NA,NA,NA,NA;2;
+LakeMonster;27;normal;Seafood,Meat,Bread,Greens,Fruit,Nuts,NA;100;
+TigerShark;27;normal;Seafood,Meat,NA,NA,NA,NA,NA;50;
+BoxTurtle;6;sideways;Seafood,Meat,NA,NA,Fruit,NA,NA;5;
